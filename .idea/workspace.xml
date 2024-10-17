@@ -4,29 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad65888-4418-4bd2-b156-82e141f26f7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c3/acquaintance/JV1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c3/acquaintance/JV1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c3/acquaintance/JV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c3/acquaintance/JV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c3/acquaintance/JV4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c4/introduction/JV18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c4/introduction/JV19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c4/introduction/JV21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c4/introduction/JV22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c4/introduction/JV5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c4/introduction/JV5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c5/array/JV23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c5/array/JV24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c5/array/JV25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c5/array/JV26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/courcehb/AppTest.java" afterDir="false" />
+    <list default="true" id="dad65888-4418-4bd2-b156-82e141f26f7d" name="Changes" comment="f c">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c4/introduction/JV10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c4/introduction/JV6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c4/introduction/JV7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c4/introduction/JV8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c4/introduction/JV9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c5/array/JV27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c5/array/JV29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c5/array/JV30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c5/array/JV31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c6/string/JV32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/courcehb/c5/array/JV23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c5/array/JV23.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,15 +70,15 @@
       <recent name="E:\MyCodeJava\TheWayJava\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ru.courcehb.c5.array" />
       <recent name="ru.courcehb.c4.introduction" />
+      <recent name="ru.courcehb.c5.array" />
       <recent name="ru.courcehb.c3.acquaintance" />
       <recent name="ru.courcehb.p1.acquaintance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JV26">
-    <configuration name="JV22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c4.introduction.JV22" />
+  <component name="RunManager" selected="Application.JV10">
+    <configuration name="JV10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c4.introduction.JV10" />
       <module name="TheWayJava" />
       <extension name="coverage">
         <pattern>
@@ -100,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JV23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c5.array.JV23" />
+    <configuration name="JV6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c4.introduction.JV6" />
       <module name="TheWayJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.courcehb.c5.array.*" />
+          <option name="PATTERN" value="ru.courcehb.c4.introduction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JV24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c5.array.JV24" />
+    <configuration name="JV7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c4.introduction.JV7" />
       <module name="TheWayJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.courcehb.c5.array.*" />
+          <option name="PATTERN" value="ru.courcehb.c4.introduction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JV25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c5.array.JV25" />
+    <configuration name="JV8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c4.introduction.JV8" />
       <module name="TheWayJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.courcehb.c5.array.*" />
+          <option name="PATTERN" value="ru.courcehb.c4.introduction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JV26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c5.array.JV26" />
+    <configuration name="JV9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c4.introduction.JV9" />
       <module name="TheWayJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.courcehb.c5.array.*" />
+          <option name="PATTERN" value="ru.courcehb.c4.introduction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JV26" />
-        <item itemvalue="Application.JV25" />
-        <item itemvalue="Application.JV24" />
-        <item itemvalue="Application.JV23" />
-        <item itemvalue="Application.JV22" />
+        <item itemvalue="Application.JV10" />
+        <item itemvalue="Application.JV9" />
+        <item itemvalue="Application.JV8" />
+        <item itemvalue="Application.JV7" />
+        <item itemvalue="Application.JV6" />
       </list>
     </recent_temporary>
   </component>
@@ -170,20 +160,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728311558760</updated>
-      <workItem from="1728311559893" duration="20124000" />
+      <workItem from="1728311559893" duration="42921000" />
     </task>
+    <task id="LOCAL-00001" summary="f c">
+      <created>1728882308343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728882308343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="f c" />
+    <option name="LAST_COMMIT_MESSAGE" value="f c" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/courcehb/c5/array/JV26.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/src/main/java/ru/courcehb/c4/introduction/JV10.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

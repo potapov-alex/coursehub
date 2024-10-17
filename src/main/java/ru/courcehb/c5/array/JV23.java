@@ -10,7 +10,7 @@ public class JV23 {
         int[] arr = new int[arrLenght];
 
         for (int i = 0; i < arrLenght; i++) {
-            arr[i] = new Random().nextInt(100);
+            arr[i] = new Scanner(System.in).nextInt();
         }
 
         for (int i = 1; i < arrLenght; i++) {
