@@ -14,7 +14,7 @@ public class JV6 {
         if (evenCounter != 1) System.out.println("data invalid");
         else {
             for (int i = 0; i < numbers.length; i++) {
-                if (numbers[i] % 2 != 0) System.out.println(numbers[i]);
+                if (numbers[i] % 2 != 0) System.out.println(i+1);
             }
         }
     }
