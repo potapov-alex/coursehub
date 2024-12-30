@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dad65888-4418-4bd2-b156-82e141f26f7d" name="Changes" comment="new task &amp; simple corrs">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv41/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv41/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv42/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv42/District.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv42/Region.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv42/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv43/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv44/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c10/jv47/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c10/jv47/GameField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c10/jv47/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/jv55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/jv56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/jv58_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv45/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv45/Chaffinch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv45/Swallow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/JV41.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv43/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv43/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv44/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c8/oop/jv44/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,60 +50,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/MyCodeJava/TheWayJava/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/MyCodeJava/TheWayJava/src/main/java/ru/courcehb/c8/oop/jv45&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MyCodeJava\TheWayJava\src\main\java\ru\courcehb\c8\oop\jv45" />
+      <recent name="E:\MyCodeJava\TheWayJava\src\main\java\ru\courcehb\c10\jv47" />
       <recent name="E:\MyCodeJava\TheWayJava\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.courcehb.c12.Collection" />
       <recent name="ru.courcehb.c4.introduction" />
       <recent name="ru.courcehb.c5.array" />
       <recent name="ru.courcehb.c3.acquaintance" />
       <recent name="ru.courcehb.p1.acquaintance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JV17">
-    <configuration name="JV14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c4.introduction.JV14" />
-      <module name="TheWayJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.courcehb.c4.introduction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JV15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c4.introduction.JV15" />
-      <module name="TheWayJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.courcehb.c4.introduction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.jv58_1">
     <configuration name="JV16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.courcehb.c4.introduction.JV16" />
       <module name="TheWayJava" />
@@ -127,12 +107,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JV6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c4.introduction.JV6" />
+    <configuration name="MainWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c10.jv47.MainWindow" />
       <module name="TheWayJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.courcehb.c4.introduction.*" />
+          <option name="PATTERN" value="ru.courcehb.c10.jv47.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jv56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c12.Collection.jv56" />
+      <module name="TheWayJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.courcehb.c12.Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jv58_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c12.Collection.jv58_1" />
+      <module name="TheWayJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.courcehb.c12.Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.jv58_1" />
+        <item itemvalue="Application.jv56" />
+        <item itemvalue="Application.MainWindow" />
         <item itemvalue="Application.JV17" />
         <item itemvalue="Application.JV16" />
-        <item itemvalue="Application.JV15" />
-        <item itemvalue="Application.JV14" />
-        <item itemvalue="Application.JV6" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +164,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728311558760</updated>
-      <workItem from="1728311559893" duration="58103000" />
+      <workItem from="1728311559893" duration="63247000" />
+      <workItem from="1733593086596" duration="15512000" />
+      <workItem from="1735287013686" duration="5497000" />
     </task>
     <task id="LOCAL-00001" summary="f c">
       <created>1728882308343</created>
@@ -181,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729867738327</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new task &amp; simple corrs">
+      <created>1730464613381</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730464613381</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

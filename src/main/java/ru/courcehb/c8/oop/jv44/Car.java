@@ -17,7 +17,7 @@ public class Car {
     public boolean equals(Object obj) {
         if (obj instanceof Car) {
             Car otherCar = (Car) obj;
-            return this.carModel.equals(otherCar.carModel) && this.carYearOfManufacture == carYearOfManufacture;
+            return this.carModel.equals(otherCar.carModel) && this.carYearOfManufacture == otherCar.carYearOfManufacture;
         }
         return false;
     }

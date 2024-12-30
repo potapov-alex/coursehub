@@ -6,7 +6,7 @@ public class Circle {
     double square = PI * Math.pow(radius, 2);
     double circumference = 2 * PI * radius;
 
-    public Circle(double PI) {
-        this.PI = PI;
+    public Circle(double radius) {
+        this.radius = radius;
     }
 }
