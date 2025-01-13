@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad65888-4418-4bd2-b156-82e141f26f7d" name="Changes" comment="new task &amp; simple corrs">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/jv59.java" afterDir="false" />
+    <list default="true" id="dad65888-4418-4bd2-b156-82e141f26f7d" name="Changes" comment="HeavyBox is done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/HeavyBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/HeavyBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/jv59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/jv59.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
       <recent name="ru.courcehb.p1.acquaintance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HeavyBox">
+  <component name="RunManager" selected="Application.jv59">
     <configuration name="HeavyBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.courcehb.c12.Collection.HeavyBox" />
       <module name="TheWayJava" />
@@ -132,8 +131,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HeavyBox" />
         <item itemvalue="Application.jv59" />
+        <item itemvalue="Application.HeavyBox" />
         <item itemvalue="Application.jv56" />
         <item itemvalue="Application.MainWindow" />
         <item itemvalue="Application.JV17" />
@@ -152,7 +151,7 @@
       <workItem from="1733593086596" duration="15512000" />
       <workItem from="1735287013686" duration="13041000" />
       <workItem from="1736167247477" duration="2940000" />
-      <workItem from="1736791518476" duration="4759000" />
+      <workItem from="1736791518476" duration="7878000" />
     </task>
     <task id="LOCAL-00001" summary="f c">
       <created>1728882308343</created>
@@ -189,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1735565932601</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HeavyBox is done">
+      <created>1736798468761</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736798468761</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +216,8 @@
     <MESSAGE value="f c" />
     <MESSAGE value="new task &amp; corrects" />
     <MESSAGE value="new task &amp; simple corrs" />
-    <option name="LAST_COMMIT_MESSAGE" value="new task &amp; simple corrs" />
+    <MESSAGE value="HeavyBox is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="HeavyBox is done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -230,15 +237,10 @@
           <line>14</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/HeavyBox.java</url>
-          <line>47</line>
-          <properties class="ru.courcehb.c12.Collection.HeavyBox" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="15" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
