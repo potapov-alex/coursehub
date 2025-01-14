@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad65888-4418-4bd2-b156-82e141f26f7d" name="Changes" comment="new task &amp; simple corrs">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/jv59_2.java" afterDir="false" />
+    <list default="true" id="dad65888-4418-4bd2-b156-82e141f26f7d" name="Changes" comment="Iterator done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,9 +70,9 @@
       <recent name="ru.courcehb.p1.acquaintance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.jv59_2">
-    <configuration name="HeavyBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c12.Collection.HeavyBox" />
+  <component name="RunManager" selected="Application.Animal">
+    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c12.Collection.Animal" />
       <module name="TheWayJava" />
       <extension name="coverage">
         <pattern>
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JV17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c4.introduction.JV17" />
+    <configuration name="HeavyBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c12.Collection.HeavyBox" />
       <module name="TheWayJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.courcehb.c4.introduction.*" />
+          <option name="PATTERN" value="ru.courcehb.c12.Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Animal" />
         <item itemvalue="Application.jv59_2" />
         <item itemvalue="Application.HeavyBox" />
         <item itemvalue="Application.jv56" />
         <item itemvalue="Application.MainWindow" />
-        <item itemvalue="Application.JV17" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1735565932601</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Iterator done">
+      <created>1736851722617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736851722617</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +210,8 @@
     <MESSAGE value="f c" />
     <MESSAGE value="new task &amp; corrects" />
     <MESSAGE value="new task &amp; simple corrs" />
-    <option name="LAST_COMMIT_MESSAGE" value="new task &amp; simple corrs" />
+    <MESSAGE value="Iterator done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterator done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
