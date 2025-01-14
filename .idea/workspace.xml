@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad65888-4418-4bd2-b156-82e141f26f7d" name="Changes" comment="HeavyBox is done">
+    <list default="true" id="dad65888-4418-4bd2-b156-82e141f26f7d" name="Changes" comment="new task &amp; simple corrs">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/jv59_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/jv59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/jv59.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +27,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2n762E0lFUgnwh7ILMcO2pWyAWa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,9 +50,9 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -63,7 +70,7 @@
       <recent name="ru.courcehb.p1.acquaintance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.jv59">
+  <component name="RunManager" selected="Application.jv59_2">
     <configuration name="HeavyBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.courcehb.c12.Collection.HeavyBox" />
       <module name="TheWayJava" />
@@ -116,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jv59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c12.Collection.jv59" />
+    <configuration name="jv59_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.courcehb.c12.Collection.jv59_2" />
       <module name="TheWayJava" />
       <extension name="coverage">
         <pattern>
@@ -131,7 +138,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.jv59" />
+        <item itemvalue="Application.jv59_2" />
         <item itemvalue="Application.HeavyBox" />
         <item itemvalue="Application.jv56" />
         <item itemvalue="Application.MainWindow" />
@@ -150,8 +157,6 @@
       <workItem from="1728311559893" duration="63247000" />
       <workItem from="1733593086596" duration="15512000" />
       <workItem from="1735287013686" duration="13041000" />
-      <workItem from="1736167247477" duration="2940000" />
-      <workItem from="1736791518476" duration="7878000" />
     </task>
     <task id="LOCAL-00001" summary="f c">
       <created>1728882308343</created>
@@ -188,36 +193,17 @@
       <option name="project" value="LOCAL" />
       <updated>1735565932601</updated>
     </task>
-    <task id="LOCAL-00006" summary="HeavyBox is done">
-      <created>1736798468761</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1736798468761</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="f c" />
     <MESSAGE value="new task &amp; corrects" />
     <MESSAGE value="new task &amp; simple corrs" />
-    <MESSAGE value="HeavyBox is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="HeavyBox is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="new task &amp; simple corrs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -237,10 +223,6 @@
           <line>14</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
-          <option name="timeStamp" value="15" />
-        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
