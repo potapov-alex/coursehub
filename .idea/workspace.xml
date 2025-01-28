@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad65888-4418-4bd2-b156-82e141f26f7d" name="Changes" comment="Iterator done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/courcehb/c12/Collection/Animal.java" afterDir="false" />
+    <list default="true" id="dad65888-4418-4bd2-b156-82e141f26f7d" name="Changes" comment="Comparator done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,6 +156,7 @@
       <workItem from="1728311559893" duration="63247000" />
       <workItem from="1733593086596" duration="15512000" />
       <workItem from="1735287013686" duration="13041000" />
+      <workItem from="1737736858788" duration="2409000" />
     </task>
     <task id="LOCAL-00001" summary="f c">
       <created>1728882308343</created>
@@ -200,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736851722617</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Comparator done">
+      <created>1736857046269</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736857046269</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +218,8 @@
     <MESSAGE value="new task &amp; corrects" />
     <MESSAGE value="new task &amp; simple corrs" />
     <MESSAGE value="Iterator done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterator done" />
+    <MESSAGE value="Comparator done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comparator done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
